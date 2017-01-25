@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 Deployment is as simple as creating a jar artifact and dropping it in your server directory
 
 ## How to contribute
+
+## Copyright
+These packages don't belong to anyone
