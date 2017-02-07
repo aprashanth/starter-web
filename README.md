@@ -12,7 +12,7 @@ This project is a starter project
 Sample website with plenty of files for demos
 
 ## Deployment
-Deployment is as simple as creating a jar artifact and dropping it in your server directory
+Deployment is as simple as creating a jar artifact and dropping it in your server directory. Yes this is true
 
 ## How to contribute
 
